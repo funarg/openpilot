@@ -1,0 +1,63 @@
+[ 1850.060297] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1850.070936] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1850.081497] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4340,charger_voltage:5064,current:-508,temp:312,capacity:100
+[ 1856.060287] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1856.076155] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1856.082742] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4340,charger_voltage:5004,current:-505,temp:312,capacity:100
+[ 1862.060292] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1862.074537] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1862.080634] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4340,charger_voltage:5052,current:-501,temp:312,capacity:100
+[ 1862.450611] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1862.450746] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1866.947002] ipa ipa_inc_acquire_wakelock:3380 client enum 2 mask already set. ref cnt = 6
+[ 1867.460649] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1867.460784] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1867.460902] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1868.060251] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1868.074508] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1868.080455] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4340,charger_voltage:5058,current:-499,temp:312,capacity:100
+[ 1874.060268] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1874.074951] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1874.080947] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4340,charger_voltage:5060,current:-494,temp:313,capacity:100
+[ 1874.370380] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1874.370516] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1875.086152] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1875.369295] ipa ipa_inc_acquire_wakelock:3380 client enum 2 mask already set. ref cnt = 6
+[ 1876.473115] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1877.790561] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1877.790697] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1880.060271] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1880.069808] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1880.079512] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5064,current:-491,temp:313,capacity:100
+[ 1881.517111] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1882.687814] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1886.060311] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1886.074978] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1886.081364] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5045,current:-488,temp:313,capacity:100
+[ 1892.060257] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1892.075461] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1892.081723] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5058,current:-486,temp:313,capacity:100
+[ 1895.463509] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1898.060433] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1898.075134] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1898.081349] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5062,current:-483,temp:313,capacity:100
+[ 1898.880504] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1901.960613] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1903.343620] ipa ipa_inc_acquire_wakelock:3380 client enum 2 mask already set. ref cnt = 6
+[ 1904.060338] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1904.074466] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1904.080712] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:4975,current:-480,temp:314,capacity:100
+[ 1906.808613] ipa ipa_inc_acquire_wakelock:3380 client enum 2 mask already set. ref cnt = 6
+[ 1910.060326] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1910.078720] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1910.094734] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5047,current:-478,temp:314,capacity:100
+[ 1910.921845] ipa ipa_inc_acquire_wakelock:3380 client enum 1 mask already set. ref cnt = 6
+[ 1915.220463] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1915.220600] <CORE> smem:rpm:rpm_requests[1:2] xprt_single_threaded_tx: Error -28 writing data
+[ 1916.060257] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1916.074806] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1916.080982] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5074,current:-476,temp:314,capacity:100
+[ 1922.060229] SMBCHG: update_heartbeat: hacking for FAST charging
+[ 1922.074923] SMBCHG: update_heartbeat: inserted charger type = 5 (OTHER), charger_type = 5
+[ 1922.081394] SMBCHG: update_heartbeat: charger_type:5,bat_voltage:4341,charger_voltage:5064,current:-472,temp:314,capacity:100
+[ 1922.603209] type=1400 "dmesg""/data/tmp/dmesg.txt""sda15"
